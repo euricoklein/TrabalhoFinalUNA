@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Minhas Compras</string>
+    <string name="hello_world">Minhas Compras</string>
+    <string name="action_settings">Settings</string>
+    <string name="stbtnComp">Compras</string>
+    <string name="stCadComp">Cadastrar compras ou continuar comprando</string>
+    <string name="stHist">Histórico</string>
+    <string-array name="arTipoCompra">
+        <item>Supermercado</item>
+
+        <item>Shopping</item>
+    </string-array>
+    <string name="stvrmax">Sugira um preço máximo</string>
+    <string name="st_tipocompra">Tipo de Compra</string>
+    <string name="st_dtcompra">Data da Compra</string>
+    <string name="st_nomecompra">Nome da Compra</string>
+    <string name="st_precomax">Preço Máximo Desejado</string>
+    <string name="st_voltar">Voltar</string>
+    <string name="st_proximo">+ Itens</string>
+    <string name="st_nmitem">Nome do item</string>
+    <string name="st_infadic">informações Adicionais</string>
+    <string name="st_qtde">Quantidade</string>
+    <string name="st_ultvalor">Valor Ult. Compra</string>
+    <string name="st_ultqtde">Ult. Qtde</string>
+    <string name="st_gravar">Gravar</string>
+    <string name="st_valor">Valor</string>
+    <string name="title_activity_dados_compra">Listas de Compras</string>
+    <string name="compra_insert">Nova Compra</string>
+    <string name="title_activity_item_compra">Itens</string>
+    <string name="title_activity_lista_itens">ListaItens</string>
+    <string name="item_insert">Incluir</string>
+
+</resources>
